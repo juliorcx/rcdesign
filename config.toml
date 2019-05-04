@@ -5,7 +5,6 @@ disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
 #canonifyurls    = true
-publishDir = "juliorcx.github.io"
 
 [params]
   title       = "Julio RC Design"
