@@ -7,4 +7,4 @@ image: "uploads/cad.png"
 
 [//]:# (Top-end 3D solid modeling / assembling using Catia V5&reg;, SolidWorks&reg;, Onshape&reg;)
 
-Going from the conceptual idea to a final product is a very specific path to follow. But we can help you with that simplifying methos through defining the goal of the project.
+Going from the conceptual idea to a final product is a very specific path to follow. But we can help you with that simplifying methods through defining the goal of the project.
