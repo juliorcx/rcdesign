@@ -12,7 +12,7 @@ paginate        = 6
 #copyright   = "© 2019"
 
   cover       = "uploads/main.jpg"
-  description = "Here is a description of your site."
+  description = "CAD design and Data analysis for your projects"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
