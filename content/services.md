@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## CAD Design
+Top-end 3D solid modeling / assembling using Catia V5&reg;, SolidWorks&reg;, Onshape&reg;
 
 ## CAD Drawings
 
