@@ -69,5 +69,3 @@ paginate        = 6
   name = "Contact"
   url = "/tags/contact/"
   weight = 90
-
-
